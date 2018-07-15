@@ -1,4 +1,4 @@
-# (CityConnect+)-
+# CityConnect+
 
 This was our solution to WolfHacks Hackathon 2018, which was my first hackathon to attend.
 
